@@ -1,0 +1,173 @@
+body
+{
+    width: 99%;
+    height: 137%;
+     background-image: url('C25.jpg');
+background-size:cover;
+ background-repeat: no-repeat;
+}
+
+
+
+
+#ab
+{
+
+position: fixed;
+top: 23px;
+left:312px;
+width:1180px;
+height:75px;
+display: block;
+font-family:Yu Gothic UI Light;
+font-size:18;
+display:block;
+color:red;
+background-color:white;
+vertical-align:text-top;
+line-height: 75px;
+}
+
+#iframea
+{
+position: absolute;
+
+top: 375px; 
+left:125px;
+width:1120; 
+height:430; 
+border: 3px brown solid; 
+}
+#iframeb
+{
+position: absolute;
+top: 210px; 
+left:1010px;
+width:340; 
+height:248; 
+border: 3px brown solid; 
+
+
+}
+#b
+{
+position: absolute;
+top: 213px;
+left:1015px;
+width:338;
+display: block;
+font-family:Papyrus;
+font-size: 25;
+display:block;
+background-color:black;
+color:brown;
+
+}
+
+#c
+{
+position:aboslute;
+position: fixed;
+margin: -8px;
+margin-top: -10px;
+
+width:1349px;
+height:25px;
+font-size:7;
+vertical-align:text-top;
+line-height: 10px;
+color:white;
+font-family:;
+background-color:#C100FF;
+}
+
+#d
+{
+position: fixed;
+top:23px;
+left:0px;
+height:75px;
+vertical-align:text-top;
+line-height: 25px;
+display: block;
+font-family:Yu Gothic UI Light;
+font-size: 20;
+display:block;
+color:brown;
+background-color:white;
+font-family:Harrington;
+
+
+}
+
+#e
+{
+position: absolute;
+top:90px;
+
+margin: -8px;
+margin-top: -10px;
+width:1349px;
+height:205px;
+vertical-align:text-top;
+line-height: 125px;
+display: block;
+font-family:Yu Gothic UI Light;
+font-size: 35;
+display:block;
+color:white;
+background-color:#C100FF  ;
+text-align:center;
+
+
+}
+
+#footer
+{
+position:absolute;
+top:950px;
+margin: -8px;
+margin-bottom: -10px;
+
+width:1349px;
+height:50px;
+font-size:13;
+text-align:center;
+color:brown;
+background-color:white;
+}
+
+
+#ourcafe
+{
+
+
+position: absolute;
+top:315px;
+
+margin: -8px;
+margin-top: -10px;
+width:1349px;
+height:75px;
+vertical-align:text-top;
+line-height: 65px;
+display: block;
+font-family:Yu Gothic UI Light;
+font-size: 25;
+display:block;
+
+background-color:white;
+text-align:center;
+
+
+}
+
+h7
+{
+position: absolute;
+color:brown;
+}
+
+
+
+ 
